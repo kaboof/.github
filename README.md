@@ -1,1 +1,1 @@
-# .github
+# Repositories for kaboof.com
